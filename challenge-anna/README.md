@@ -1,4 +1,4 @@
-# DeFi Wonderland Challenge
+# Ant Solidity Challenge
 
 Ooooh no! Robert, our lead developer had an urgent flight and left us with an unfinished game.
 
